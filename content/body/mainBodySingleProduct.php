@@ -3,7 +3,9 @@
         <div class="container">
             <div class="row">
                 <?php 
+                include 'mainBodyCart/leftControl.php';
                 include mainBodySingleProduct_path.'rightControls.php';
+                
                 ?>
             </div>
         </div>
