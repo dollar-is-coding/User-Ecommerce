@@ -18,13 +18,13 @@
                                             </td>
 
                                             <td class="product-thumbnail">
-                                                <a href="single-product.html"><img width="145" height="145"
+                                                <a href="single-product.php"><img width="145" height="145"
                                                         alt="poster_1_up" class="shop_thumbnail"
                                                         src="img/product-thumb-2.jpg"></a>
                                             </td>
 
                                             <td class="product-name">
-                                                <a href="single-product.html">Ship Your Idea</a>
+                                                <a href="single-product.php">Ship Your Idea</a>
                                             </td>
 
                                             <td class="product-price">

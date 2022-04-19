@@ -2,7 +2,7 @@
                                     <h2>You may be interested in...</h2>
                                     <ul class="products">
                                         <li class="product">
-                                            <a href="single-product.html">
+                                            <a href="single-product.php">
                                                 <img width="325" height="325" alt="T_4_front"
                                                     class="attachment-shop_catalog wp-post-image"
                                                     src="img/product-2.jpg">
@@ -11,12 +11,12 @@
                                             </a>
 
                                             <a class="add_to_cart_button" data-quantity="1" data-product_sku=""
-                                                data-product_id="22" rel="nofollow" href="single-product.html">Select
+                                                data-product_id="22" rel="nofollow" href="single-product.php">Select
                                                 options</a>
                                         </li>
 
                                         <li class="product">
-                                            <a href="single-product.html">
+                                            <a href="single-product.php">
                                                 <img width="325" height="325" alt="T_4_front"
                                                     class="attachment-shop_catalog wp-post-image"
                                                     src="img/product-4.jpg">
@@ -25,7 +25,7 @@
                                             </a>
 
                                             <a class="add_to_cart_button" data-quantity="1" data-product_sku=""
-                                                data-product_id="22" rel="nofollow" href="single-product.html">Select
+                                                data-product_id="22" rel="nofollow" href="single-product.php">Select
                                                 options</a>
                                         </li>
                                     </ul>
