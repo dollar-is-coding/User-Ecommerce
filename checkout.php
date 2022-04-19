@@ -31,8 +31,9 @@
 
     <?php 
     include content_path.'header.php';
-     ?>
+    ?>
 
+    
     <div class="product-big-title-area">
         <div class="container">
             <div class="row">
