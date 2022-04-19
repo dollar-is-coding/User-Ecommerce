@@ -4,7 +4,9 @@
             <div class="row">
 
                 <!-- left controls -->
-                <?php include 'mainBodyCheckout/rightControls.php'; ?>
+                <?php
+                include 'mainBodyCart/leftControl.php';
+                include 'mainBodyCheckout/rightControls.php'; ?>
                 <!-- rightCheckoutControls -->
                 
             </div>
