@@ -12,12 +12,12 @@
                                     <div class="product-hover">
                                         <a href="#" class="add-to-cart-link"><i class="fa fa-shopping-cart"></i> Add to
                                             cart</a>
-                                        <a href="single-product.html" class="view-details-link"><i
+                                        <a href="single-product.php" class="view-details-link"><i
                                                 class="fa fa-link"></i> See details</a>
                                     </div>
                                 </div>
 
-                                <h2><a href="single-product.html">Sony Smart TV - 2015</a></h2>
+                                <h2><a href="single-product.php">Sony Smart TV - 2015</a></h2>
 
                                 <div class="product-carousel-price">
                                     <ins>$700.00</ins> <del>$800.00</del>
@@ -29,12 +29,12 @@
                                     <div class="product-hover">
                                         <a href="#" class="add-to-cart-link"><i class="fa fa-shopping-cart"></i> Add to
                                             cart</a>
-                                        <a href="single-product.html" class="view-details-link"><i
+                                        <a href="single-product.php" class="view-details-link"><i
                                                 class="fa fa-link"></i> See details</a>
                                     </div>
                                 </div>
 
-                                <h2><a href="single-product.html">Apple new mac book 2015 March :P</a></h2>
+                                <h2><a href="single-product.php">Apple new mac book 2015 March :P</a></h2>
                                 <div class="product-carousel-price">
                                     <ins>$899.00</ins> <del>$999.00</del>
                                 </div>
@@ -45,12 +45,12 @@
                                     <div class="product-hover">
                                         <a href="#" class="add-to-cart-link"><i class="fa fa-shopping-cart"></i> Add to
                                             cart</a>
-                                        <a href="single-product.html" class="view-details-link"><i
+                                        <a href="single-product.php" class="view-details-link"><i
                                                 class="fa fa-link"></i> See details</a>
                                     </div>
                                 </div>
 
-                                <h2><a href="single-product.html">Apple new i phone 6</a></h2>
+                                <h2><a href="single-product.php">Apple new i phone 6</a></h2>
 
                                 <div class="product-carousel-price">
                                     <ins>$400.00</ins> <del>$425.00</del>
@@ -62,12 +62,12 @@
                                     <div class="product-hover">
                                         <a href="#" class="add-to-cart-link"><i class="fa fa-shopping-cart"></i> Add to
                                             cart</a>
-                                        <a href="single-product.html" class="view-details-link"><i
+                                        <a href="single-product.php" class="view-details-link"><i
                                                 class="fa fa-link"></i> See details</a>
                                     </div>
                                 </div>
 
-                                <h2><a href="single-product.html">Sony playstation microsoft</a></h2>
+                                <h2><a href="single-product.php">Sony playstation microsoft</a></h2>
 
                                 <div class="product-carousel-price">
                                     <ins>$200.00</ins> <del>$225.00</del>
@@ -79,12 +79,12 @@
                                     <div class="product-hover">
                                         <a href="#" class="add-to-cart-link"><i class="fa fa-shopping-cart"></i> Add to
                                             cart</a>
-                                        <a href="single-product.html" class="view-details-link"><i
+                                        <a href="single-product.php" class="view-details-link"><i
                                                 class="fa fa-link"></i> See details</a>
                                     </div>
                                 </div>
 
-                                <h2><a href="single-product.html">Sony Smart Air Condtion</a></h2>
+                                <h2><a href="single-product.php">Sony Smart Air Condtion</a></h2>
 
                                 <div class="product-carousel-price">
                                     <ins>$1200.00</ins> <del>$1355.00</del>
@@ -96,12 +96,12 @@
                                     <div class="product-hover">
                                         <a href="#" class="add-to-cart-link"><i class="fa fa-shopping-cart"></i> Add to
                                             cart</a>
-                                        <a href="single-product.html" class="view-details-link"><i
+                                        <a href="single-product.php" class="view-details-link"><i
                                                 class="fa fa-link"></i> See details</a>
                                     </div>
                                 </div>
 
-                                <h2><a href="single-product.html">Samsung gallaxy note 4</a></h2>
+                                <h2><a href="single-product.php">Samsung gallaxy note 4</a></h2>
 
                                 <div class="product-carousel-price">
                                     <ins>$400.00</ins>
