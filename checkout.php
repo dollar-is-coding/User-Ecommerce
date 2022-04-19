@@ -10,7 +10,12 @@ include content_path.'head.php';
 
 <body>
 <?php 
-include content_path.'containerCheckout.php';
+$iscontainerCart=false;
+$iscontainerCheckout=true;
+$iscontainerIndex=false;
+$iscontainerShop=false;
+$iscontainerSingleProduct=false;
+include 'layout.php';
 ?>
     
 

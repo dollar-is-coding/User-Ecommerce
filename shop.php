@@ -8,7 +8,12 @@ include content_path.'head.php';
        </head>
   <body>
   <?php 
-include content_path.'containerShop.php';
+$iscontainerCart=false;
+$iscontainerCheckout=false;
+$iscontainerIndex=false;
+$iscontainerShop=true;
+$iscontainerSingleProduct=false;
+include 'layout.php';
     ?>
   
 

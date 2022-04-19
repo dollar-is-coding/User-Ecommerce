@@ -15,7 +15,12 @@ include content_path.'head.php';
 <body>
 
 <?php
-include content_path.'containerCart.php';
+$iscontainerCart=true;
+$iscontainerCheckout=false;
+$iscontainerIndex=false;
+$iscontainerShop=false;
+$iscontainerSingleProduct=false;
+include 'layout.php';
 ?>
 </body>
 

@@ -9,7 +9,12 @@ include content_path.'head.php';
   </head>
   <body>
   <?php 
-include content_path.'containerSingleProduct.php';
+  $iscontainerCart=false;
+  $iscontainerCheckout=false;
+  $iscontainerIndex=false;
+  $iscontainerShop=false;
+  $iscontainerSingleProduct=true;
+  include 'layout.php';
     ?>
   
 
