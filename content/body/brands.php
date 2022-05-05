@@ -1,3 +1,4 @@
+làm
 <div class="brands-area">
         <div class="zigzag-bottom"></div>
         <div class="container">

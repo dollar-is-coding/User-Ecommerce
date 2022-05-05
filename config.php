@@ -6,4 +6,5 @@ define ("footer_path","footer/");
 define ("rightControls_path","rightControls/");
 define ("mainBodySingleProduct_path","mainBodySingleProduct/");
 define("head_path","head/");
+define ("image_path","img/");
 ?>
