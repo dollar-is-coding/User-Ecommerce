@@ -1,12 +1,12 @@
-làm
+
 <div class="cross-sells">
                                     <h2>You may be interested in...</h2>
                                     <ul class="products">
                                         <li class="product">
                                             <a href="single-product.php">
-                                                <img width="325" height="325" alt="T_4_front"
+                                             <?php $level=''; echo '<img width="325" height="325" alt="T_4_front"
                                                     class="attachment-shop_catalog wp-post-image"
-                                                    src="img/product-2.jpg">
+                                                    src='.$level.image_path.'product-2.jpg>'; ?>
                                                 <h3>Ship Your Idea</h3>
                                                 <span class="price"><span class="amount">£20.00</span></span>
                                             </a>
@@ -18,9 +18,9 @@ làm
 
                                         <li class="product">
                                             <a href="single-product.php">
-                                                <img width="325" height="325" alt="T_4_front"
+                                            <?php $level=''; echo '<img width="325" height="325" alt="T_4_front"
                                                     class="attachment-shop_catalog wp-post-image"
-                                                    src="img/product-4.jpg">
+                                                    src='.$level.image_path.'product-4.jpg>'; ?>
                                                 <h3>Ship Your Idea</h3>
                                                 <span class="price"><span class="amount">£20.00</span></span>
                                             </a>

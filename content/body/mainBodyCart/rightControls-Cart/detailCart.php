@@ -1,4 +1,4 @@
-làm
+
 <form method="post" action="#">
                                 <table cellspacing="0" class="shop_table cart">
                                     <thead>
@@ -19,9 +19,9 @@ làm
                                             </td>
 
                                             <td class="product-thumbnail">
-                                                <a href="single-product.php"><img width="145" height="145"
+                                               <?php $level=''; echo '<a href="single-product.php"><img width="145" height="145"
                                                         alt="poster_1_up" class="shop_thumbnail"
-                                                        src="img/product-thumb-2.jpg"></a>
+                                                        src='.$level.image_path.'product-thumb-2.jpg></a>'; ?>
                                             </td>
 
                                             <td class="product-name">

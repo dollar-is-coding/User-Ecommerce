@@ -1,10 +1,10 @@
-làm
+
 <div class="related-products-wrapper">
                             <h2 class="related-products-title">Related Products</h2>
                             <div class="related-products-carousel">
                                 <div class="single-product">
                                     <div class="product-f-image">
-                                        <img src="img/product-1.jpg" alt="">
+                                    <?php $level=''; echo '<img src="'.$level.image_path.'product-1.jpg" alt="">';?>
                                         <div class="product-hover">
                                             <a href="" class="add-to-cart-link"><i class="fa fa-shopping-cart"></i> Add to cart</a>
                                             <a href="" class="view-details-link"><i class="fa fa-link"></i> See details</a>
@@ -19,7 +19,7 @@ làm
                                 </div>
                                 <div class="single-product">
                                     <div class="product-f-image">
-                                        <img src="img/product-2.jpg" alt="">
+                                    <?php $level=''; echo '<img src="'.$level.image_path.'product-2.jpg" alt="">';?>
                                         <div class="product-hover">
                                             <a href="" class="add-to-cart-link"><i class="fa fa-shopping-cart"></i> Add to cart</a>
                                             <a href="" class="view-details-link"><i class="fa fa-link"></i> See details</a>
@@ -33,7 +33,7 @@ làm
                                 </div>
                                 <div class="single-product">
                                     <div class="product-f-image">
-                                        <img src="img/product-3.jpg" alt="">
+                                    <?php $level=''; echo '<img src="'.$level.image_path.'product-3.jpg" alt="">';?>
                                         <div class="product-hover">
                                             <a href="" class="add-to-cart-link"><i class="fa fa-shopping-cart"></i> Add to cart</a>
                                             <a href="" class="view-details-link"><i class="fa fa-link"></i> See details</a>
@@ -48,7 +48,7 @@ làm
                                 </div>
                                 <div class="single-product">
                                     <div class="product-f-image">
-                                        <img src="img/product-4.jpg" alt="">
+                                    <?php $level=''; echo '<img src="'.$level.image_path.'product-4.jpg" alt="">';?>
                                         <div class="product-hover">
                                             <a href="" class="add-to-cart-link"><i class="fa fa-shopping-cart"></i> Add to cart</a>
                                             <a href="" class="view-details-link"><i class="fa fa-link"></i> See details</a>
@@ -63,7 +63,7 @@ làm
                                 </div>
                                 <div class="single-product">
                                     <div class="product-f-image">
-                                        <img src="img/product-5.jpg" alt="">
+                                    <?php $level=''; echo '<img src="'.$level.image_path.'product-5.jpg" alt="">';?>
                                         <div class="product-hover">
                                             <a href="" class="add-to-cart-link"><i class="fa fa-shopping-cart"></i> Add to cart</a>
                                             <a href="" class="view-details-link"><i class="fa fa-link"></i> See details</a>
@@ -78,7 +78,7 @@ làm
                                 </div>
                                 <div class="single-product">
                                     <div class="product-f-image">
-                                        <img src="img/product-6.jpg" alt="">
+                                    <?php $level=''; echo '<img src="'.$level.image_path.'product-6.jpg" alt="">';?>
                                         <div class="product-hover">
                                             <a href="" class="add-to-cart-link"><i class="fa fa-shopping-cart"></i> Add to cart</a>
                                             <a href="" class="view-details-link"><i class="fa fa-link"></i> See details</a>
