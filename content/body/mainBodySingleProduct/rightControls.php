@@ -5,5 +5,5 @@
         include rightControls_path.'detailProduct.php';
         include rightControls_path.'relatedProduct.php';
         ?>
-    </div>                    
+    </div>
 </div>
