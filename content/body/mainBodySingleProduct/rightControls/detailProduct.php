@@ -1,4 +1,4 @@
-
+<?php include 'detailProduct-data.php'; ?>
 <div class="row">
                             <div class="col-sm-6">
                                 <div class="product-images">
