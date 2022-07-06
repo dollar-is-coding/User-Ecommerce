@@ -1,9 +1,9 @@
 <?php
-include("../../../../DB/db.php");
+include("C:\wamp64\www\DO_AN_PHP\User-Ecommerce\DB\db.php");
     $masp=$_GET['id'];
-    $SQL_str_danhsachsp="select masanPham from sanpham where trangthai=1 and maSanPham=:maSanPham";
+    $SQL_str_danhsachsp="select idsanPham from sanpham where trangthai=1 and idSanPham=:maSanPham";
     $dssanpham=$db->prepare($SQL_str_danhsachsp);
-    $result->bindValue(':maSanPham',$masp,PDO::PARAM_STR);
+    $dssanpham->bindValue(':maSanPham',$masp,PDO::PARAM_STR);
     $dssanpham->execute();
     $dssanpham_rowsdata=$dssanpham->fetchAll();
     var_dump($dssanpham_rowsdata);

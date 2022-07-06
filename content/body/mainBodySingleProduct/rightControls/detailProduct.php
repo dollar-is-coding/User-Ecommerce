@@ -1,4 +1,7 @@
-
+<?php 
+include 'detailProduct-data.php';
+include("C:\wamp64\www\DO_AN_PHP\User-Ecommerce\DB\db.php");
+ ?>
 <div class="row">
                             <div class="col-sm-6">
                                 <div class="product-images">
