@@ -5,11 +5,4 @@ include("DB/db.php");
     $dssanpham=$db->prepare( $SQL_str_danhsachsp);
     $dssanpham->execute();
     $dssanpham_rowsdata=$dssanpham->fetchAll();
-    //var_dump($dssanpham_rowsdata);
-
-    //$SQL_str_danhsachloaisp="select * from loaisanpham";
-    //$dsloaisanpham=$db->prepare( $SQL_str_danhsachloaisp);
-    //$dsloaisanpham->execute();
-    //$dsloaisanpham_rowsdata=$dsloaisanpham->fetchAll();
-    //var_dump($dsloaisanpham_rowsdata);
 ?>
