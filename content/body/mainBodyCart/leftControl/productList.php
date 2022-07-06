@@ -8,7 +8,7 @@
                             ?>
                         <h2 class="sidebar-title">Products</h2>
                         <div class="thubmnail-recent">
-                        <?php $level=''; echo '<img src="'.$level.image_path.$data['hinhAnh'].'" alt="">';?>
+                        <?php $level=''; echo '<img src="'.$level.image_path.$data['hinhAnh'].'"  alt="">';?>
                             <h2><a href="single-product.php"><?php echo $data["tenSanPham"]; ?></a></h2>
                             <div class="product-sidebar-price">
                                 <ins><?php echo $data["giaBan"]; ?></ins>
