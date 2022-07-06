@@ -8,7 +8,7 @@
                         <div class="product-upper">
                           <?php $level=''; echo '<img src="'.$level.image_path.$data['hinhAnh'].'" alt="">';?>
                         </div>
-                        <h2><a href=""><?php echo $data['tenSanPham']; ?></a></h2>
+                        <?php echo '<h2><a href="single-product.php?id='.$data['idSanPham'].'">'.$data['tenSanPham'].'</a></h2>'; ?>
                         <div class="product-carousel-price">
                             <ins><?php echo $data['giaBan'].' VND'; ?></ins>
                         </div>  
